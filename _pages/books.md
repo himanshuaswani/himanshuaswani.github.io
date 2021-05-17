@@ -1,4 +1,4 @@
 --
-permalink: books
+permalink: /books/
 --
 Well,...
