@@ -5,7 +5,7 @@ classes: wide
 
 gallery:
   - url:
-    image_path: /assets/images/moonwalking with einstien.jpg
+    image_path: /assets/images/moonwalking with einstein.jpg
     alt: "Moonwalking With Einstein"
     title: "Moonwalking With Einstein"
   - url:
