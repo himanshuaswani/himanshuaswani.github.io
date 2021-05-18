@@ -9,4 +9,4 @@ feature_row:
   ---
 > “Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it.” – Albus Dumbledore
 
-{% include feature_row %}
+{% include feature_row type="center"%}
