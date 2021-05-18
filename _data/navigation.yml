@@ -4,7 +4,7 @@ main:
      url: https://himanshuaswani.github.io
    - title: "About"
      url: /about/
-   - title: "Projects"
-     url: /projects/
-   - title: "Books"
+   #- title: "Projects"
+   #  url: /projects/
+   - title: "The Shelf"
      url: /books/
