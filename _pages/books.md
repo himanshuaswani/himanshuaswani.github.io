@@ -1,7 +1,6 @@
 ---
 layout: splash
 permalink: /books/
-classes: wide
 feature_row:
   - image_path: /assets/images/mwe.jpg
     alt: "Moonwalking With Einstein"
