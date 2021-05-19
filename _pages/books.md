@@ -3,7 +3,7 @@ layout: splash
 permalink: /books/
 classes: wide
 feature_row:
-  - image_path: /assets/images/bmwe.jpg
+  - image_path: /assets/images/bmwe.png
     alt: "Moonwalking With Einstein"  
 ---
 <style>
