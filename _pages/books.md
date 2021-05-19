@@ -17,4 +17,4 @@ body {
 > “Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it.” – Albus Dumbledore
 
 <img src="/assets/images/bmwe.jpg" alt="K"
-	title="A" width="150" height="100" />
+	title="A" width="75" height="50" />
