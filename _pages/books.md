@@ -3,7 +3,7 @@ layout: splash
 permalink: /books/
 classes: wide
 feature_row:
-  - image_path: /assets/images/bmwe.PNG
+  - image_path: /assets/images/bmwe.jpg
     alt: "Moonwalking With Einstein"  
 ---
 <style>
@@ -16,5 +16,5 @@ body {
 </style>
 > “Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it.” – Albus Dumbledore
 
-<img src="/assets/images/shefl.jpg" alt="K"
+<img src="/assets/images/bwme.jpg" alt="K"
 	title="A" width="150" height="100" />
