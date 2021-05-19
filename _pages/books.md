@@ -14,9 +14,6 @@ body {
   background-size: 100% 100%;
 }
 </style>
-> “Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it.” – Albus Dumbledore<
+> “Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it.” – Albus Dumbledore
 
-
-<body>
-{% include feature_row %}
-</body>
+!["MWE" "MWE"](/assets/images/bwme.PNG "MWE")
