@@ -16,4 +16,5 @@ body {
 </style>
 > “Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it.” – Albus Dumbledore
 
-!["MWE" "MWE"](/assets/images/bwme.PNG "MWE")
+<img src="/assets/images/shefl.jpg" alt="Kitten"
+	title="A" width="150" height="100" />
