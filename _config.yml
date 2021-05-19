@@ -121,7 +121,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/himanshu-aswani-aa7598134/
 # Site Footer
 footer:
   links:
@@ -143,7 +145,8 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
 
 # Reading Files
 include:
