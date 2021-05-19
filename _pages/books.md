@@ -16,4 +16,4 @@ body {
 </style>
 > “Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it.” – Albus Dumbledore
 
-<img src="/assets/images/bmwe.jpg" alt="K"	title="A" width="75" height="50" /> <img src="/assets/images/bdvc.JPG" alt="K"	title="A" width="75" height="50" />
+<img src="/assets/images/mwe.jpg" alt="Moonwalking With Einstein"	title="Moonwalking With Einstein" width="250" height="200" /> <img src="/assets/images/dvc.jpg" alt="The Da Vinci Code"	title="The Da Vinci Code" width="250" height="200" /> <img src="/assets/images/hobbit.jpg" alt="The Hobbit"	title="The Hobbit" width="250" height="200" />
