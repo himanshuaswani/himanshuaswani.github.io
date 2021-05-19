@@ -10,7 +10,5 @@ feature_row:
 
 {% include feature_row %}
 
-<figure>
-  <img src="/assets/images/shefl.jpg" alt="this is a placeholder image">
-  <figcaption>This is a figure caption.</figcaption>
-</figure>
+<body background = "/assets/images/shefl.jpg">
+</body>
