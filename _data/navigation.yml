@@ -1,9 +1,9 @@
 # main links
 main:
    - title: "Home"
-     url: https://himanshuaswani.github.io
-   - title: "About"
      url: /about/
+   #- title: "About"
+   #  url: /about/
    #- title: "Projects"
    #  url: /projects/
    - title: "The Shelf"
