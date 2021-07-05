@@ -7,6 +7,6 @@ classes: wide
 
 <div class="box">
   <div class="img">
-  <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_the_midnight_line@2x.jpg" alt = "The Midnight Line" width=300px height=500px border-width:25px border-color:red>
+  <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_the_midnight_line@2x.jpg" alt = "The Midnight Line">
   </div>
 </div>
