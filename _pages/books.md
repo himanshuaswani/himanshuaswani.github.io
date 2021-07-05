@@ -2,16 +2,11 @@
 layout: splash
 permalink: /books/
 classes: wide
-feature_row:
-  - image_path: /assets/images/bmwe.jpg
-    alt: "Moonwalking With Einstein"  
 ---
-<style>
-body {
-  background-image: "/assets/images/shefl.jpg"
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
-</style>
 <blockquote> “Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it.” – Albus Dumbledore </blockquote>
+
+<div class="box">
+  <div class="img">
+  <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_the_midnight_line@2x.jpg" alt = "The Midnight Line" width=300px height=500px border-width:25px border-color:red>
+  </div>
+</div>
