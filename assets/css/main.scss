@@ -6,3 +6,13 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+div.box
+{
+  width:1500px; height: 500px;
+}
+
+div.img
+{
+  border-colour:red;
+}
