@@ -3,7 +3,7 @@ layout: splash
 permalink: /books/
 classes: wide
 ---
-<p align="center" class="quotations">“Words are, in my not-so-humble opinion, our most inexhaustible source of magic.” – Albus Dumbledore</p>
+<h3 align="center" class="quotations">“Words are, in my not-so-humble opinion, our most inexhaustible source of magic.” – Albus Dumbledore</h3>
 
 <div class="box">
   
