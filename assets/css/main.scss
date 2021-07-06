@@ -18,6 +18,7 @@ div.box
 
 div.desc
 {
+  float: right;
   width: 500px; height: 650px;
   border-width: 2px 2px 2px 2px;
   border-style: solid;
@@ -28,6 +29,7 @@ div.desc
 
 div.img
 {
+  float: left;
   width:500px; height:650px;
   border-width: 2px 2px 2px 2px;
   border-style: solid;
