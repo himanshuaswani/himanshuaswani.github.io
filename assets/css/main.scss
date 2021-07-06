@@ -25,7 +25,12 @@ div.desc
 
 div.img
 {
+  width:500px; height:700px;
+  border-width: 2px 2px 2px 2px;
+  border-style: solid;
   border-colour:red;
+  margin: 5px;
+  padding: 10px;
 }
 
 p.one{
