@@ -18,9 +18,12 @@ div.box
 
 div.desc
 {
-  text-align:center;
-  margin: 50px;
-  padding: 50px;
+  width: 500px; height: 650px;
+  border-width: 2px 2px 2px 2px;
+  border-style: solid;
+  border-colour: blue;
+  margin: 5px;
+  padding: 10px;
 }
 
 div.img
@@ -28,7 +31,7 @@ div.img
   width:500px; height:650px;
   border-width: 2px 2px 2px 2px;
   border-style: solid;
-  border-colour:red;
+  border-colour: red;
   margin: 5px;
   padding: 10px;
 }
