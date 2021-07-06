@@ -9,7 +9,7 @@ classes: wide
   <div class="img">
   <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_the_midnight_line@2x.jpg" alt = "The Midnight Line" width=400px height=600px align=left>
   </div>
-  <div>
+  <div class="desc">
     <p align = "center"> The Midnight Line by Lee Child</p>
     <p align = "center">Jack Reacher is having a bad day.<br />
       It would be a dumb idea to make it worse.</p>
