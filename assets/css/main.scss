@@ -16,9 +16,10 @@ img {
   max-width: 100%; max-height: 100%;
   object-fit: cover;
 }
+
 div.desc
 {
-  overflow: auto;
+  //overflow: auto;
   float: left;
   width: 45%; height: 75%;
   border: 5px solid gold;
@@ -27,7 +28,7 @@ div.desc
 
 div.imgleft
 {
-  overflow: auto;
+  //overflow: auto;
   max-width: 45%; max-height: 75%;
   border: 5px solid gold;
   float: left;
@@ -37,7 +38,7 @@ div.imgleft
 
 div.imgright
 {
-  overflow: auto;
+  //overflow: auto;
   max-width: 45%; max-height: 75%;
   border: 5px solid gold;
   float: right;
