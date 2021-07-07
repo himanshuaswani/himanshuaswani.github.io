@@ -9,11 +9,11 @@ classes: wide
 <div class="box">
   
   <div class="imgleft">
-  <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_the_midnight_line@2x.jpg" alt = "The Midnight Line">
+  <img src="https://m.media-amazon.com/images/I/51gNEqOhHXS._SY346_.jpg" alt = "The Midnight Line">
   </div>
   
   <div class="imgright">
-  <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_night_school@2x.jpg" alt = "Night School">
+  <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459086472l/28227098._SY475_.jpg" alt = "Night School">
   </div>
   
   
@@ -26,7 +26,7 @@ classes: wide
   </div>
   
   <div class="imgright">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/61voOxiNf9L.jpg" alt = "The Da Vinci Code">
+  <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332591483l/269831.jpg" alt = "The Da Vinci Code">
   </div>
   
   
