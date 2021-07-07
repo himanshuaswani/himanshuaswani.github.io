@@ -7,9 +7,9 @@ classes: wide
 <br/><br/>
 
   <div class="imgleft">
-  <!-->
+  <!--
   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523721283l/36598205._SY475_.jpg" alt = "The Midnight Line">
-  <-->
+  -->
   <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_the_midnight_line@2x.jpg" alt = "The Midnight Line">
   </div>
   
