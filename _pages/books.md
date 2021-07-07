@@ -31,6 +31,6 @@ classes: wide
   <img src="https://images-na.ssl-images-amazon.com/images/I/61d4MMc+i9L.jpg" alt = "Inferno">
   </div>
   <div class="imgright">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/51UA4cTPAhL._SX321_BO1,204,203,200_.jpg" alt = "Murder on the Orient Express">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/71GLAwC9cPL.jpg" alt = "Outliers">
   </div>
   
