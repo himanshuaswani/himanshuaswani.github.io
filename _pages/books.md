@@ -8,7 +8,7 @@ classes: wide
 <div class="box">
   
   <div class="img">
-  <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_the_midnight_line@2x.jpg" alt = "The Midnight Line" width=400px height=550px align=left>
+  <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_the_midnight_line@2x.jpg" alt = "The Midnight Line" width=30% height=45% align=left>
   </div>
   
   <div class="desc">
