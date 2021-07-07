@@ -22,7 +22,7 @@ classes: wide
 <div class="box">
   
   <div class="imgleft">
-  <img src="https://en.wikipedia.org/wiki/Moonwalking_with_Einstein#/media/File:Moonwalking_with_einstein.jpg" alt = "Moonwalking With Einstein">
+  <img src="https://images.penguinrandomhouse.com/cover/9780143120537" alt = "Moonwalking With Einstein">
   </div>
   
   <div class="imgright">
