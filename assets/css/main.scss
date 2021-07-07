@@ -24,6 +24,17 @@ div.imgleft
   border: 5px solid gold;
   float: left;
   padding: 0% 0% 0% 0%;
+  margin: 25px 50px 25px 0px;
+}
+
+div.imgmid
+{
+  //overflow: auto;
+  box-sizing: border-box;
+  width: 350px; height: 500px;
+  border: 5px solid gold;
+  float: left;
+  padding: 0% 0% 0% 0%;
   margin: 25px 25px 25px 25px;
 }
 
@@ -31,11 +42,11 @@ div.imgright
 {
   //overflow: auto;
   box-sizing: border-box;
-  width: 300px; height: 450px;
+  width: 350px; height: 500px;
   border: 5px solid gold;
-  float: right;
+  float: left;
   padding: 0% 0% 0% 0%;
-  margin: 2% 2% 2% 2%;
+  margin: 25px 0px 25px 50px;
 }
 
 
