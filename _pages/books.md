@@ -12,15 +12,12 @@ classes: wide
   -->
   <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_the_midnight_line@2x.jpg" alt = "The Midnight Line">
   </div>
-  
   <div class="imgleft">
   <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_night_school@2x.jpg" alt = "Night School">
   </div>
-  
   <div class="imgleft">
   <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_die_trying@2x.jpg" alt = "Die Trying">
   </div>
-  
   <div class="imgright">
   <img src="https://images.penguinrandomhouse.com/cover/9780143120537" alt = "Moonwalking With Einstein">
   </div>
