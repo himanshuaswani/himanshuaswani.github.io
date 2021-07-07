@@ -9,7 +9,7 @@ classes: wide
   <div class="imgleft">
   <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_the_midnight_line@2x.jpg" alt = "The Midnight Line">
   </div>
-  <div class="imgleft">
+  <div class="imgmid">
   <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_night_school@2x.jpg" alt = "Night School">
   </div>
   <div class="imgright">
