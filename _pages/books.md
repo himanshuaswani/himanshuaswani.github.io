@@ -18,13 +18,15 @@ classes: wide
   </div>
   
   <div class="imgleft">
-  <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510344359l/10169815._SY475_.jpg" alt = "Die Trying">
+  <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_die_trying@2x.jpg" alt = "Die Trying">
   </div>
   
   <div class="imgleft">
   <img src="https://images.penguinrandomhouse.com/cover/9780143120537" alt = "Moonwalking With Einstein">
   </div>
-
+  
+  <br/><br/>
+  
   <div class="imgleft">
   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332591483l/269831.jpg" alt = "The Da Vinci Code">
   </div>
