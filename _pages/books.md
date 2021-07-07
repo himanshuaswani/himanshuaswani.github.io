@@ -32,7 +32,7 @@ classes: wide
   <img src="https://images-na.ssl-images-amazon.com/images/I/51cfOp4+OeL._SX323_BO1,204,203,200_.jpg" alt = "ABC Murders">
   </div>
   
-  <div class="">
+  <div class="imgleft">
   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907.jpg" alt = "The Hobbit">
   </div>
   
