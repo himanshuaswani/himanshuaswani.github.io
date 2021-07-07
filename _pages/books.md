@@ -14,6 +14,10 @@ classes: wide
   </div>
   
   <div class="imgleft">
+  <img src="https://www.jackreacher.com/wp-content/uploads/2020/08/jack_reacher_jacket_uk_night_school@2x.jpg" alt = "Night School">
+  </div>
+  
+  <div class="imgleft">
   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510344359l/10169815._SY475_.jpg" alt = "Die Trying">
   </div>
   
