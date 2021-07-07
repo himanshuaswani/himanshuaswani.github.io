@@ -16,18 +16,7 @@ img{
   width: 100%; height: 100%;
   }
 
-div.imgleft
-{
-  //overflow: auto;
-  box-sizing: border-box;
-  width: 350px; height: 500px;
-  border: 5px solid gold;
-  float: left;
-  padding: 0% 0% 0% 0%;
-  margin: 25px 50px 25px 0px;
-}
-
-div.imgmid
+div.img
 {
   //overflow: auto;
   box-sizing: border-box;
@@ -36,17 +25,6 @@ div.imgmid
   float: left;
   padding: 0% 0% 0% 0%;
   margin: 25px 25px 25px 25px;
-}
-
-div.imgright
-{
-  //overflow: auto;
-  box-sizing: border-box;
-  width: 350px; height: 500px;
-  border: 5px solid gold;
-  float: left;
-  padding: 0% 0% 0% 0%;
-  margin: 25px 0px 25px 50px;
 }
 
 
