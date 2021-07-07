@@ -19,8 +19,7 @@ classes: wide
   </div>
 
 <br/>
-<div class = "box">
-  
+
   <div class="imgleft">
   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332591483l/269831.jpg" alt = "The Da Vinci Code">
   </div>
@@ -32,7 +31,3 @@ classes: wide
   <div class="imgleft">
   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907.jpg" alt = "The Hobbit">
   </div>
-  
-
-</div>
-  
