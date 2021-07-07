@@ -29,7 +29,7 @@ div.desc
 div.imgleft
 {
   //overflow: auto;
-  max-width: 45%; max-height: 75%;
+  width: 45%; height: 75%;
   border: 5px solid gold;
   float: left;
   padding: 2% 2% 2% 2%;
@@ -39,7 +39,7 @@ div.imgleft
 div.imgright
 {
   //overflow: auto;
-  max-width: 45%; max-height: 75%;
+  width: 45%; height: 75%;
   border: 5px solid gold;
   float: right;
   padding: 2% 2% 2% 2%;
