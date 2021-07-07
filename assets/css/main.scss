@@ -28,7 +28,7 @@ div.desc
 div.imgleft
 {
   overflow: auto;
-  width: 45%; height: 75%;
+  max-width: 45%; max-height: 75%;
   border: 5px solid gold;
   float: left;
   padding: 2% 2% 2% 2%;
