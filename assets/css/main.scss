@@ -38,7 +38,7 @@ div.imgleft
 div.imgright
 {
   overflow: auto;
-  width: 45%; height: 75%;
+  max-width: 45%; max-height: 75%;
   border: 5px solid gold;
   float: right;
   padding: 2% 2% 2% 2%;
